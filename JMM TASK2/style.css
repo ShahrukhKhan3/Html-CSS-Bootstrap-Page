@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+body{
+  margin-right: 2px;
+}
+.link-text-green {
+  color: green;
+  text-decoration: none;
+}
+p {
+  font-size: 12px;
+}
+a {
+  text-decoration: none;
+}
+h6 {
+  font-size: 14px;
+}
+h5 {
+  font-size: 18px;
+}
+.card-color {
+  background-color: lightgray;
+  height: auto;
+  padding: 22px;
+  border-radius: 2px;
+}
+.icons-margin {
+  margin-left: 5px;
+  color: gray;
+}
+.text-style {
+  display: flex;
+}
+.text-substyle {
+  align-items: center;
+}
+.search{
+  margin: -36px 8px;
+
+  float:right;
+}
+.image{
+border-radius: 101px;
+margin: -39px 196px;
+float: right;
+height: 32px;
+}
+.navbar li{
+list-style-type: none;
+font-size: larger;
+}
